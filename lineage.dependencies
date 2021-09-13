@@ -11,12 +11,6 @@
   },
   {
     "remote": "github",
-    "repository": "brunorolak/packages_apps_CameraGo",
-    "target_path": "packages/apps/CameraGo",
-    "branch": "eleven"
-  },
-  {
-    "remote": "github",
     "repository": "PixelExperience/packages_resources_devicesettings-custom ",
     "target_path": "packages/resources/devicesettings-custom",
     "branch": "eleven"
